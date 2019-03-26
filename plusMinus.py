@@ -1,5 +1,5 @@
 def plusMinus(arr):
-    '''This function takes an array as it's input.
+    '''This function takes an array as its input.
     It then returns:
     A decimal representing of the fraction of positive numbers in the array compared to its size.
     A decimal representing of the fraction of negative numbers in the array compared to its size.
