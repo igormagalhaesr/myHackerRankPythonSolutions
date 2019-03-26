@@ -2,7 +2,7 @@
 
 def aVeryBigSum(ar):
     '''Input is an array.
-    The function returns the sum of all it's elements'''
+    The function returns the sum of all its elements'''
     out = 0
     for i in range(len(ar)):
         out += ar[i]

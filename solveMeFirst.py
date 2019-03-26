@@ -2,7 +2,7 @@
 #i actually had a bit of trouble the first time I was using the platform.
 
 def solveMeFirst(a,b):
-    '''This function takes two inputs, that must be numbers, as it's arguments.
+    '''This function takes two inputs, that must be numbers, as its arguments.
      It then returns another number, which is the sum of the arguments.'''
     return a + b
 

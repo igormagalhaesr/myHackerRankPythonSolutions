@@ -5,7 +5,7 @@
 #The second line contains  space-separated integers representing the array's elements.
 
 def simpleArraySum(ar):
-    '''this function takes an array as it's argument,
+    '''this function takes an array as its argument,
     then it returns the sum of all of the array's elements'''
     
     #I'll simply sum all of the array's elements, from 0, to len(ar) (not inclusive) to the "out" variable and return it
